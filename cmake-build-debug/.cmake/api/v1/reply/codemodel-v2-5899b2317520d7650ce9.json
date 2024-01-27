@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "codetest::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-codetest-Debug-e0b79df4b78d22311dcc.json",
+					"jsonFile" : "target-codetest-Debug-1af59a8a288eefe2001f.json",
 					"name" : "codetest",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }
